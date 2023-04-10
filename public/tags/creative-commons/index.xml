@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>creative-commons on Alvin Sim</title>
+    <link>http://localhost/tags/creative-commons/</link>
+    <description>Recent content in creative-commons on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 12:58:20 +0000</lastBuildDate><atom:link href="http://localhost/tags/creative-commons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m Now Licensed Under Creative Commons</title>
+      <link>http://localhost/posts/creative-commons-licensed/</link>
+      <pubDate>Fri, 07 Oct 2016 12:58:20 +0000</pubDate>
+      
+      <guid>http://localhost/posts/creative-commons-licensed/</guid>
+      <description>Well, this website actually, including the blogs posts. Everything published here is now licensed under the Creative Commons Attribution 4.0 International License.
+In short, this means that you are allowed to (including for commercial works)
+share any of the blog posts published here with anyone. use any of the blog posts to produce any form of works. There is just one request: Please provide a link back to the content and reference me as the author.</description>
+    </item>
+    
+  </channel>
+</rss>

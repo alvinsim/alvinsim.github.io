@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Alvin Sim</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Nov 2020 11:16:44 +0000</lastBuildDate><atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH Keys Suddenly Refused to Connect</title>
+      <link>http://localhost/posts/ssh-keys-suddenly-refused-to-connect/</link>
+      <pubDate>Sun, 29 Nov 2020 11:16:44 +0000</pubDate>
+      
+      <guid>http://localhost/posts/ssh-keys-suddenly-refused-to-connect/</guid>
+      <description>Strangely, my Debian system (running on WSL) suddenly refused to connect to both Gitlab and GitHub using my SSH keys. Everything was fine when I last used it a couple of weeks ago. But now running the command ssh -Tv git@github.com returns a &amp;ldquo;Connection timed out&amp;rdquo; error.
+And I didn&amp;rsquo;t see the same issue using the same SSH keys on a Ubuntu system (also running on WSL) and Git Bash on Windows.</description>
+    </item>
+    
+    <item>
+      <title>Which &#39;yarn&#39;?</title>
+      <link>http://localhost/posts/which-yarn/</link>
+      <pubDate>Mon, 31 Aug 2020 15:51:21 +0000</pubDate>
+      
+      <guid>http://localhost/posts/which-yarn/</guid>
+      <description>This has happened to me each time I setup a new Debian or Ubuntu environment. Firstly, the yarn command I am referring to here is the JavaScript &amp;ldquo;Yarn&amp;rdquo; package manager. The yarn that was installed or already installed was the one used by the cmdtest.
+I thought I had yarn installed when I checked using the command which yarn and out printed /usr/bin/yarn.
+$ which yarn /usr/bin/yarn When I ran yarn upgrade I got this weird error message:</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s a Chocolatey Time</title>
+      <link>http://localhost/posts/its-a-chocolatey-time/</link>
+      <pubDate>Sun, 14 Jun 2020 13:56:03 +0000</pubDate>
+      
+      <guid>http://localhost/posts/its-a-chocolatey-time/</guid>
+      <description>Chocolatey is a software or package management on Windows, similar to the apt command on Debian or Debian-based distributions. It&amp;rsquo;d be great if Windows has something similar built-in. This does make managing software so much easier.
+I have used Chocolatey for many years, since 2016 or earlier, and it is always one of the first things I install on a new Windows system.
+One of the main advantages of using Chocolatey and because it is a command-line-interface (CLI) power tool, is installations and upgrading of software can be automated.</description>
+    </item>
+    
+    <item>
+      <title>2019 Podcast Shows I Enjoy Listening To</title>
+      <link>http://localhost/posts/2019-podcast-shows-i-enjoy-listening-to/</link>
+      <pubDate>Sun, 15 Dec 2019 12:38:09 +0000</pubDate>
+      
+      <guid>http://localhost/posts/2019-podcast-shows-i-enjoy-listening-to/</guid>
+      <description>I listen to podcasts because it is one of the ways I can learn something new. There was a quote from someone, from whom I can&amp;rsquo;t remember, &amp;ldquo;Podcast is like a moving university&amp;rdquo;. I will always have something to listen to when I am doing my chores, commute, having my walks or exercise, etc.
+Below is a list of the podcast shows I enjoy listening to currently and they are ordered in no particular order.</description>
+    </item>
+    
+    <item>
+      <title>A Better Web Experience with the Keyboard</title>
+      <link>http://localhost/posts/a-better-web-experience-with-the-keyboard/</link>
+      <pubDate>Mon, 29 Jul 2019 11:57:06 +0000</pubDate>
+      
+      <guid>http://localhost/posts/a-better-web-experience-with-the-keyboard/</guid>
+      <description>When I use a computer, I like to have both hands on the keyboard, or specifically on the home row. I find that it is more productive than having to move them to grab the mouse every few seconds. This is one reason I am grateful for
+Software with great keyboard shortcuts and also that are easily customisable. Terminal (or terminal emulator) and command prompt which you do not really need to use the mouse.</description>
+    </item>
+    
+    <item>
+      <title>&#39;git status&#39; in Your Prompt</title>
+      <link>http://localhost/posts/git-status-in-your-prompt/</link>
+      <pubDate>Tue, 25 Jun 2019 12:35:07 +0000</pubDate>
+      
+      <guid>http://localhost/posts/git-status-in-your-prompt/</guid>
+      <description>Did you know: You can have a visual representation of the git status command output in your shell prompt? This is especially convenient for people who use the git command-line interface (CLI). Unfortunately, this doesn&amp;rsquo;t work with the Windows command prompt or cmd. But there are a few workarounds.
+git-prompt.sh Disclaimer: For this part of the article, I will show the how-tos by using Debian (on Windows Subsystem for Linux or WSL) and FreeBSD as examples.</description>
+    </item>
+    
+    <item>
+      <title>Why Not DuckDuckGo?</title>
+      <link>http://localhost/posts/why-not-duckduckgo/</link>
+      <pubDate>Sat, 16 Feb 2019 02:43:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/why-not-duckduckgo/</guid>
+      <description>DuckDuckGo is a privacy-first search engine which doesn&amp;rsquo;t track you. I started using it as my primary search engine in 2011. Below is my first tweet about DuckDuckGo. In the tweet, I shared an article on an interview (2012) by TechSpot with DuckDuckGo&amp;rsquo;s founder, Gabriel Weinberg.
+I&amp;rsquo;ve used duckduckgo for more than a year &amp;amp; it&amp;rsquo;s AWESOME. It is currently the default search engine in all my browsers http://t.co/Dngw2s9d</description>
+    </item>
+    
+    <item>
+      <title>My Experience with Windows Subsystem for Linux (WSL)</title>
+      <link>http://localhost/posts/my-experience-with-wsl/</link>
+      <pubDate>Sat, 15 Sep 2018 13:07:12 +0000</pubDate>
+      
+      <guid>http://localhost/posts/my-experience-with-wsl/</guid>
+      <description>One day on my way back home, I was listening to one of Hanselminutes&amp;rsquo;s podcast episodes titled &amp;ldquo;Inside Linux on Windows with WSL and Tara Raj&amp;rdquo;.
+This reminded me of the first time I tried it when Microsoft first announced it back in 2016. Then, it was called &amp;ldquo;Bash on Windows&amp;rdquo; and Microsoft collaborated with Canonical, the company behind Ubuntu.
+Personally, I didn&amp;rsquo;t use it much. It was just another shiny new toy and I didn&amp;rsquo;t have a use for it then.</description>
+    </item>
+    
+    <item>
+      <title>A War With My Laptop&#39;s Touchpad</title>
+      <link>http://localhost/posts/a-war-with-my-laptops-touchpad/</link>
+      <pubDate>Sun, 19 Aug 2018 03:43:59 +0000</pubDate>
+      
+      <guid>http://localhost/posts/a-war-with-my-laptops-touchpad/</guid>
+      <description>I use a 15&amp;quot; HP Pavillion and the touchpad drives me crazy. This happens with Dells&amp;rsquo; as well. The one thing about the touchpad that bugs me, is when I start typing and ghostly things would start to happen such as my web browser will be the active window and new tabs and/or windows will start opening; or the right-click context menu would appear. Changing the sensitivity of the touchpad didn&amp;rsquo;t help.</description>
+    </item>
+    
+    <item>
+      <title>Refresh Environment Variables in Windows Command Prompt</title>
+      <link>http://localhost/posts/refresh-env-vars-in-windows-cmd/</link>
+      <pubDate>Sat, 18 Aug 2018 12:24:30 +0000</pubDate>
+      
+      <guid>http://localhost/posts/refresh-env-vars-in-windows-cmd/</guid>
+      <description>Have you ever added an environment variable in Windows and having to close and re-open the command prompt just to use it? Or worse, having to reboot Windows.
+I just found this cool command when I used Chocolatey to install maven. Right at the end of the installation, Chocolatey prompt me to run the refreshenv command to have the environment variable change(s) take effect without re-opening the command prompt.
+alvin@ALVINSIM-HP C:\Users\alvin\ &amp;gt; refreshenv Refreshing environment variables from registry for cmd.</description>
+    </item>
+    
+    <item>
+      <title>My Design Portfolio</title>
+      <link>http://localhost/posts/my-design-portfolio/</link>
+      <pubDate>Sat, 07 Jul 2018 02:37:53 +0000</pubDate>
+      
+      <guid>http://localhost/posts/my-design-portfolio/</guid>
+      <description>These are freelance works I have done alongside my career as a Software Developer/Engineer. They consists of websites (some are hybrid of HTML, CSS, JavaScript and Adobe Flash, whilst the others are just static HTML), magazine advertisements, and logos.
+BioGalachrom URL: http://alvinsim.com/demo/biogalachrom/home/
+A website built to provide information on a nutrient product called &amp;ldquo;GT&amp;amp;F&amp;rdquo;. This website is no longer online. The URL above is to an archived version.
+Yong &amp;amp; Leonard Chartered Accountants URL: http://www.</description>
+    </item>
+    
+    <item>
+      <title>Symlink Me, Windows!</title>
+      <link>http://localhost/posts/symlink-me-windows/</link>
+      <pubDate>Fri, 08 Jun 2018 17:01:39 +0000</pubDate>
+      
+      <guid>http://localhost/posts/symlink-me-windows/</guid>
+      <description>Microsoft Windows has this feature called symbolic links since Windows Vista. But, I am guessing not many are aware of this feature, nor did I. It wasn&amp;rsquo;t until I had a need for it and tried searching if there were any 3rd party applications which provided this feature. And I found this How-To Geek article. Eventually, I found other articles on this subject.
+What are symbolic links? Symbolic links are pointers referencing to another file or directory at a different location.</description>
+    </item>
+    
+    <item>
+      <title>Coding Music With Sonic Pi</title>
+      <link>http://localhost/posts/coding-music-with-sonic-pi/</link>
+      <pubDate>Sun, 11 Feb 2018 13:19:14 +0000</pubDate>
+      
+      <guid>http://localhost/posts/coding-music-with-sonic-pi/</guid>
+      <description>Sonic Pi Lately, I have been playing with Sonic Pi. In a nutshell, it is a music synthesizer. But instead of toggling knobs, switches, keys and what not, we write code. Ruby code to be exact.
+Sonic Pi was created by Sam Aaron. A bit of history now, if you have not heard of him, he, together with Johnathan Graham, was Meta-eX. They performed live coding music. Besides that, they also did tech talks to promote coding and music to different groups of people.</description>
+    </item>
+    
+    <item>
+      <title>Tip-of-the-day Tips</title>
+      <link>http://localhost/posts/tip-of-the-day-tips/</link>
+      <pubDate>Wed, 31 Jan 2018 09:58:18 +0000</pubDate>
+      
+      <guid>http://localhost/posts/tip-of-the-day-tips/</guid>
+      <description>We know it inside-out. Or do we? In our day-to-day life, we use a number of things or tools to get things done. Here, I want to touch mainly on software or applications, which we use almost everyday in our computer, smartphone, or tablet.
+Source: Windows 95 Tips, Tricks and Tweaks
+If anyone noticed, especially softwares on a desktop computer, there will always be a &amp;ldquo;Tip of the day&amp;rdquo; or &amp;ldquo;Did you know?</description>
+    </item>
+    
+    <item>
+      <title>Diagrams With PlantUML and Emacs</title>
+      <link>http://localhost/posts/diagrams-with-plantuml-and-emacs/</link>
+      <pubDate>Sat, 15 Apr 2017 15:13:21 +0000</pubDate>
+      
+      <guid>http://localhost/posts/diagrams-with-plantuml-and-emacs/</guid>
+      <description>Starting With Dia When I had to draw UML diagrams, the tool I first used was Dia - an open-sourced diagraming software. Dia is a great tool. I have not used Microsoft Visio before, so I cannot compare what short-comings it has compared to Visio.
+The other tool I tried was yEd. I did not feel comfortable using it, and always went back to using Dia.
+Couple of years ago, with a new job, I had to draw lots of sequence diagrams.</description>
+    </item>
+    
+    <item>
+      <title>Remember Me, Subversion</title>
+      <link>http://localhost/posts/remember-me-svn/</link>
+      <pubDate>Wed, 22 Mar 2017 16:17:11 +0000</pubDate>
+      
+      <guid>http://localhost/posts/remember-me-svn/</guid>
+      <description>Every three months, my workplace&amp;rsquo;s network domain will prompt to change our password. And this tri-monthly exercise would affect all the other intranet sites and systems, namely Subversion (SVN). Now, this is not a major problem because the organisation uses single sign-on via LDAP or Active Directory i.e. you can access the other intanet sites or systems with the same User ID and password.
+But recently, I noticed SVN doesn&amp;rsquo;t remember me, even when I clicked on the &amp;ldquo;Save authentication&amp;rdquo; check box at the TortoiseSVN&amp;rsquo;s authentication window.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Now Licensed Under Creative Commons</title>
+      <link>http://localhost/posts/creative-commons-licensed/</link>
+      <pubDate>Fri, 07 Oct 2016 12:58:20 +0000</pubDate>
+      
+      <guid>http://localhost/posts/creative-commons-licensed/</guid>
+      <description>Well, this website actually, including the blogs posts. Everything published here is now licensed under the Creative Commons Attribution 4.0 International License.
+In short, this means that you are allowed to (including for commercial works)
+share any of the blog posts published here with anyone. use any of the blog posts to produce any form of works. There is just one request: Please provide a link back to the content and reference me as the author.</description>
+    </item>
+    
+    <item>
+      <title>Windows Tips - Move Window Between Multiple Monitor(s)</title>
+      <link>http://localhost/posts/move-window-between-monitors/</link>
+      <pubDate>Mon, 19 Sep 2016 16:45:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/move-window-between-monitors/</guid>
+      <description>Most of us now have additional external monitor in our workspace. Having more than one screen, which I find, makes one productive, especially when you need to reference data on another application. Using Alt Tab to switch between applications is not the best thing to do.
+Prior to this, to move a window between monitors, I would use the mouse and drag it to the other screen. I have been doing this for years.</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD - Install Python 3 and Pip</title>
+      <link>http://localhost/posts/freebsd-install-python-3-and-pip/</link>
+      <pubDate>Sat, 09 Jul 2016 15:46:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/freebsd-install-python-3-and-pip/</guid>
+      <description>I am starting a Python web project, and taking this oppotunity to learn django or flask. Development work will be done in my FreeBSD VirtualBox virtual machine.
+Before I started, I checked if Python was already installed. And yes, it was already loaded with version 2.7.12.
+[alvinsim@freebsd ~]$ which python /usr/local/bin/python [alvinsim@freebsd ~]$ python --version Python 2.7.12 [alvinsim@freebsd ~]$ But, I wanted to develop using Python 3. So, I searched if there was a port for it.</description>
+    </item>
+    
+    <item>
+      <title>From Vim To Emacs</title>
+      <link>http://localhost/posts/from-vim-to-emacs/</link>
+      <pubDate>Sun, 19 Jun 2016 16:03:08 +0000</pubDate>
+      
+      <guid>http://localhost/posts/from-vim-to-emacs/</guid>
+      <description>Disclaimer: This is not a &amp;ldquo;Vim vs Emacs&amp;rdquo; type of blog post. I wrote this to share my thoughts of using both of them.
+Vim Vi or vim (Vi IMproved) is a text editor. It is installed on almost all of the *nix systems. You can choose to use it with the GUI, or, use it in the terminal or command prompt.
+I started using vim at around 2006/07. This was at one of my previous jobs where the servers were mainly *nix based systems - IBM AIX (ver 5.</description>
+    </item>
+    
+    <item>
+      <title>Automate It!</title>
+      <link>http://localhost/posts/automate-it/</link>
+      <pubDate>Fri, 25 Mar 2016 10:53:59 +0000</pubDate>
+      
+      <guid>http://localhost/posts/automate-it/</guid>
+      <description>Image Credit - Eugen Stoll (Creative Commons License - CC BY-NC 2.0)
+Machines are wonderful. They help us to be productive by doing the things we don&amp;rsquo;t want to do or can&amp;rsquo;t do, whilst we can focus on other important things.
+Yes, I am LAZY! I write scripts or let services, like IFTTT (If-This-Then-That), to do things for me.
+This is how I automate some of my daily routines.</description>
+    </item>
+    
+    <item>
+      <title>Things I Do After I Install Windows</title>
+      <link>http://localhost/posts/things-i-do-after-i-install-windows/</link>
+      <pubDate>Mon, 29 Feb 2016 17:35:55 +0000</pubDate>
+      
+      <guid>http://localhost/posts/things-i-do-after-i-install-windows/</guid>
+      <description>1. Connect to a (trusted) network After the Windows installation completes successfully, I&amp;rsquo;d connect it to the Internet. This is so that I can update Windows with the latest security patches, and download the necessary applications.
+2. Windows Update It is always important to always keep your Windows (or any other OS you use) up-to-date with the latest security patches and updates.
+3. Check Windows Settings For Windows prior to Windows 10, I would configure Windows Update to notify only and not download.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost/posts/hello/</link>
+      <pubDate>Mon, 12 Oct 2015 15:55:42 +0000</pubDate>
+      
+      <guid>http://localhost/posts/hello/</guid>
+      <description>I used to blog at my wordpress site. But now I have decided to merge both my website and blog since I already have my domain name and hosting. Unfortunately, this was something I had put off for a very long time.
+What I will be blogging about? Hacks, things which inspires me and passionate about - coding/scripting, software development/engineering, tech, art, music, my kids. How-to articles especially for my own reference.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost/posts/about/</link>
+      <pubDate>Sat, 03 Oct 2015 16:35:49 +0000</pubDate>
+      
+      <guid>http://localhost/posts/about/</guid>
+      <description>Hi. My name is Alvin Sim.
+Throughout my career, which started in 2002, I have worn many hats.
+At my first job, I started as a Graphic Designer, working for a small mobile content provider company.
+After a year, I changed jobs and did Classic ASP and ASP.NET coding in VB. This was the start of my career as a Software Developer.
+Moving forward in my career and because of project requirements, I picked-up Java and have been coding in Java ever since.</description>
+    </item>
+    
+  </channel>
+</rss>

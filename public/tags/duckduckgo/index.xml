@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>duckduckgo on Alvin Sim</title>
+    <link>http://localhost/tags/duckduckgo/</link>
+    <description>Recent content in duckduckgo on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Feb 2019 02:43:35 +0000</lastBuildDate><atom:link href="http://localhost/tags/duckduckgo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Not DuckDuckGo?</title>
+      <link>http://localhost/posts/why-not-duckduckgo/</link>
+      <pubDate>Sat, 16 Feb 2019 02:43:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/why-not-duckduckgo/</guid>
+      <description>DuckDuckGo is a privacy-first search engine which doesn&amp;rsquo;t track you. I started using it as my primary search engine in 2011. Below is my first tweet about DuckDuckGo. In the tweet, I shared an article on an interview (2012) by TechSpot with DuckDuckGo&amp;rsquo;s founder, Gabriel Weinberg.
+I&amp;rsquo;ve used duckduckgo for more than a year &amp;amp; it&amp;rsquo;s AWESOME. It is currently the default search engine in all my browsers http://t.co/Dngw2s9d</description>
+    </item>
+    
+    <item>
+      <title>Things I Do After I Install Windows</title>
+      <link>http://localhost/posts/things-i-do-after-i-install-windows/</link>
+      <pubDate>Mon, 29 Feb 2016 17:35:55 +0000</pubDate>
+      
+      <guid>http://localhost/posts/things-i-do-after-i-install-windows/</guid>
+      <description>1. Connect to a (trusted) network After the Windows installation completes successfully, I&amp;rsquo;d connect it to the Internet. This is so that I can update Windows with the latest security patches, and download the necessary applications.
+2. Windows Update It is always important to always keep your Windows (or any other OS you use) up-to-date with the latest security patches and updates.
+3. Check Windows Settings For Windows prior to Windows 10, I would configure Windows Update to notify only and not download.</description>
+    </item>
+    
+  </channel>
+</rss>

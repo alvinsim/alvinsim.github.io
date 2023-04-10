@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Text Editors on Alvin Sim</title>
+    <link>http://localhost/tags/text-editors/</link>
+    <description>Recent content in Text Editors on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2016 16:03:08 +0000</lastBuildDate><atom:link href="http://localhost/tags/text-editors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Vim To Emacs</title>
+      <link>http://localhost/posts/from-vim-to-emacs/</link>
+      <pubDate>Sun, 19 Jun 2016 16:03:08 +0000</pubDate>
+      
+      <guid>http://localhost/posts/from-vim-to-emacs/</guid>
+      <description>Disclaimer: This is not a &amp;ldquo;Vim vs Emacs&amp;rdquo; type of blog post. I wrote this to share my thoughts of using both of them.
+Vim Vi or vim (Vi IMproved) is a text editor. It is installed on almost all of the *nix systems. You can choose to use it with the GUI, or, use it in the terminal or command prompt.
+I started using vim at around 2006/07. This was at one of my previous jobs where the servers were mainly *nix based systems - IBM AIX (ver 5.</description>
+    </item>
+    
+  </channel>
+</rss>

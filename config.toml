@@ -1,0 +1,80 @@
+baseURL = "https://alvinsim.com/"
+# title = "Hugo Themes"
+author = "Alvin Sim"
+#copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+paginate = 8
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+theme = "paper"
+title = "Alvin Sim"
+
+[params]
+  color = 'linen'
+
+  #twitter = 'alvinsim'
+  github = 'alvinsim'
+  #instagram = 'sim.alvin'
+  linkedin = 'in/alvin-sim/'
+  #facebook = 'alvinsim'
+  email = 'sim.alvin@gmail.com'
+	rss = true
+
+  avatar = 'sim.alvin@gmail.com'
+  name = 'Alvin Sim'
+  #bio = 'Discover fresh context'
+# ------------------------------
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "designs"
+    name = "Design Portfolio"
+    url = "/designs/"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true

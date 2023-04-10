@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mklink on Alvin Sim</title>
+    <link>http://localhost/tags/mklink/</link>
+    <description>Recent content in mklink on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 17:01:39 +0000</lastBuildDate><atom:link href="http://localhost/tags/mklink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Symlink Me, Windows!</title>
+      <link>http://localhost/posts/symlink-me-windows/</link>
+      <pubDate>Fri, 08 Jun 2018 17:01:39 +0000</pubDate>
+      
+      <guid>http://localhost/posts/symlink-me-windows/</guid>
+      <description>Microsoft Windows has this feature called symbolic links since Windows Vista. But, I am guessing not many are aware of this feature, nor did I. It wasn&amp;rsquo;t until I had a need for it and tried searching if there were any 3rd party applications which provided this feature. And I found this How-To Geek article. Eventually, I found other articles on this subject.
+What are symbolic links? Symbolic links are pointers referencing to another file or directory at a different location.</description>
+    </item>
+    
+  </channel>
+</rss>

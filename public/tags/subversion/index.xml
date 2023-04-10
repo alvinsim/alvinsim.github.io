@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>subversion on Alvin Sim</title>
+    <link>http://localhost/tags/subversion/</link>
+    <description>Recent content in subversion on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2017 16:17:11 +0000</lastBuildDate><atom:link href="http://localhost/tags/subversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remember Me, Subversion</title>
+      <link>http://localhost/posts/remember-me-svn/</link>
+      <pubDate>Wed, 22 Mar 2017 16:17:11 +0000</pubDate>
+      
+      <guid>http://localhost/posts/remember-me-svn/</guid>
+      <description>Every three months, my workplace&amp;rsquo;s network domain will prompt to change our password. And this tri-monthly exercise would affect all the other intranet sites and systems, namely Subversion (SVN). Now, this is not a major problem because the organisation uses single sign-on via LDAP or Active Directory i.e. you can access the other intanet sites or systems with the same User ID and password.
+But recently, I noticed SVN doesn&amp;rsquo;t remember me, even when I clicked on the &amp;ldquo;Save authentication&amp;rdquo; check box at the TortoiseSVN&amp;rsquo;s authentication window.</description>
+    </item>
+    
+  </channel>
+</rss>

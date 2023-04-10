@@ -1,0 +1,21 @@
+#+TITLE: TODO
+
+* Tasks [66%]
+
+** DONE Sort out the menus
+
+** TODO Transfer domain name
+
+** DONE Import the pictures/images
+
+** DONE update copyright to cc license
+
+** TODO Extend width of website
+
+** TODO Import comments to disquss
+
+** DONE Find social icons for LinkedIn, Email
+
+** DONE Remove paper submodule
+
+** DONE Add submodule from forked paper

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>firefox on Alvin Sim</title>
+    <link>http://localhost/tags/firefox/</link>
+    <description>Recent content in firefox on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2019 11:57:06 +0000</lastBuildDate><atom:link href="http://localhost/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Better Web Experience with the Keyboard</title>
+      <link>http://localhost/posts/a-better-web-experience-with-the-keyboard/</link>
+      <pubDate>Mon, 29 Jul 2019 11:57:06 +0000</pubDate>
+      
+      <guid>http://localhost/posts/a-better-web-experience-with-the-keyboard/</guid>
+      <description>When I use a computer, I like to have both hands on the keyboard, or specifically on the home row. I find that it is more productive than having to move them to grab the mouse every few seconds. This is one reason I am grateful for
+Software with great keyboard shortcuts and also that are easily customisable. Terminal (or terminal emulator) and command prompt which you do not really need to use the mouse.</description>
+    </item>
+    
+  </channel>
+</rss>

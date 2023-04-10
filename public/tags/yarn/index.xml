@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yarn on Alvin Sim</title>
+    <link>http://localhost/tags/yarn/</link>
+    <description>Recent content in yarn on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 15:51:21 +0000</lastBuildDate><atom:link href="http://localhost/tags/yarn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which &#39;yarn&#39;?</title>
+      <link>http://localhost/posts/which-yarn/</link>
+      <pubDate>Mon, 31 Aug 2020 15:51:21 +0000</pubDate>
+      
+      <guid>http://localhost/posts/which-yarn/</guid>
+      <description>This has happened to me each time I setup a new Debian or Ubuntu environment. Firstly, the yarn command I am referring to here is the JavaScript &amp;ldquo;Yarn&amp;rdquo; package manager. The yarn that was installed or already installed was the one used by the cmdtest.
+I thought I had yarn installed when I checked using the command which yarn and out printed /usr/bin/yarn.
+$ which yarn /usr/bin/yarn When I ran yarn upgrade I got this weird error message:</description>
+    </item>
+    
+  </channel>
+</rss>

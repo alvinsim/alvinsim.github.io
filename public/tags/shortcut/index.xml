@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shortcut on Alvin Sim</title>
+    <link>http://localhost/tags/shortcut/</link>
+    <description>Recent content in shortcut on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2016 16:45:35 +0000</lastBuildDate><atom:link href="http://localhost/tags/shortcut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Tips - Move Window Between Multiple Monitor(s)</title>
+      <link>http://localhost/posts/move-window-between-monitors/</link>
+      <pubDate>Mon, 19 Sep 2016 16:45:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/move-window-between-monitors/</guid>
+      <description>Most of us now have additional external monitor in our workspace. Having more than one screen, which I find, makes one productive, especially when you need to reference data on another application. Using Alt Tab to switch between applications is not the best thing to do.
+Prior to this, to move a window between monitors, I would use the mouse and drag it to the other screen. I have been doing this for years.</description>
+    </item>
+    
+  </channel>
+</rss>

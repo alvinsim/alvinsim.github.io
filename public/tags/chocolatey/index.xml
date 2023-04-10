@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>chocolatey on Alvin Sim</title>
+    <link>http://localhost/tags/chocolatey/</link>
+    <description>Recent content in chocolatey on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Feb 2016 17:35:55 +0000</lastBuildDate><atom:link href="http://localhost/tags/chocolatey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Do After I Install Windows</title>
+      <link>http://localhost/posts/things-i-do-after-i-install-windows/</link>
+      <pubDate>Mon, 29 Feb 2016 17:35:55 +0000</pubDate>
+      
+      <guid>http://localhost/posts/things-i-do-after-i-install-windows/</guid>
+      <description>1. Connect to a (trusted) network After the Windows installation completes successfully, I&amp;rsquo;d connect it to the Internet. This is so that I can update Windows with the latest security patches, and download the necessary applications.
+2. Windows Update It is always important to always keep your Windows (or any other OS you use) up-to-date with the latest security patches and updates.
+3. Check Windows Settings For Windows prior to Windows 10, I would configure Windows Update to notify only and not download.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wsl on Alvin Sim</title>
+    <link>http://localhost/tags/wsl/</link>
+    <description>Recent content in wsl on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 13:07:12 +0000</lastBuildDate><atom:link href="http://localhost/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Experience with Windows Subsystem for Linux (WSL)</title>
+      <link>http://localhost/posts/my-experience-with-wsl/</link>
+      <pubDate>Sat, 15 Sep 2018 13:07:12 +0000</pubDate>
+      
+      <guid>http://localhost/posts/my-experience-with-wsl/</guid>
+      <description>One day on my way back home, I was listening to one of Hanselminutes&amp;rsquo;s podcast episodes titled &amp;ldquo;Inside Linux on Windows with WSL and Tara Raj&amp;rdquo;.
+This reminded me of the first time I tried it when Microsoft first announced it back in 2016. Then, it was called &amp;ldquo;Bash on Windows&amp;rdquo; and Microsoft collaborated with Canonical, the company behind Ubuntu.
+Personally, I didn&amp;rsquo;t use it much. It was just another shiny new toy and I didn&amp;rsquo;t have a use for it then.</description>
+    </item>
+    
+  </channel>
+</rss>

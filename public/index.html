@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.109.0"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Alvin Sim</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.bccfefac377bc340f06c260aed1bddf49a4354816d7c570d6aac75a997986c95.css" integrity="sha256-vM/vrDd7w0DwbCYK7Rvd9JpDVIFtfFcNaqx1qZeYbJU=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Alvin Sim" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Alvin Sim"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Alvin Sim",
+  "url": "http://localhost",
+  "description": "",
+  "thumbnailUrl": "http://localhost/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost" accesskey="h" title="Alvin Sim (Alt + H)">Alvin Sim</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost/design/" title="Design Portfolio">
+                    <span>Design Portfolio</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>SSH Keys Suddenly Refused to Connect
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Strangely, my Debian system (running on WSL) suddenly refused to connect to both Gitlab and GitHub using my SSH keys. Everything was fine when I last used it a couple of weeks ago. But now running the command ssh -Tv git@github.com returns a “Connection timed out” error.
+And I didn’t see the same issue using the same SSH keys on a Ubuntu system (also running on WSL) and Git Bash on Windows....</p>
+  </div>
+  <footer class="entry-footer"><span title='2020-11-29 11:16:44 +0000 +0000'>November 29, 2020</span>&nbsp;·&nbsp;2 min</footer>
+  <a class="entry-link" aria-label="post link to SSH Keys Suddenly Refused to Connect" href="http://localhost/posts/ssh-keys-suddenly-refused-to-connect/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Which &#39;yarn&#39;?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>This has happened to me each time I setup a new Debian or Ubuntu environment. Firstly, the yarn command I am referring to here is the JavaScript “Yarn” package manager. The yarn that was installed or already installed was the one used by the cmdtest.
+I thought I had yarn installed when I checked using the command which yarn and out printed /usr/bin/yarn.
+$ which yarn /usr/bin/yarn When I ran yarn upgrade I got this weird error message:...</p>
+  </div>
+  <footer class="entry-footer"><span title='2020-08-31 15:51:21 +0000 +0000'>August 31, 2020</span>&nbsp;·&nbsp;2 min</footer>
+  <a class="entry-link" aria-label="post link to Which &#39;yarn&#39;?" href="http://localhost/posts/which-yarn/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>It&#39;s a Chocolatey Time
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Chocolatey is a software or package management on Windows, similar to the apt command on Debian or Debian-based distributions. It’d be great if Windows has something similar built-in. This does make managing software so much easier.
+I have used Chocolatey for many years, since 2016 or earlier, and it is always one of the first things I install on a new Windows system.
+One of the main advantages of using Chocolatey and because it is a command-line-interface (CLI) power tool, is installations and upgrading of software can be automated....</p>
+  </div>
+  <footer class="entry-footer"><span title='2020-06-14 13:56:03 +0000 +0000'>June 14, 2020</span>&nbsp;·&nbsp;6 min</footer>
+  <a class="entry-link" aria-label="post link to It&#39;s a Chocolatey Time" href="http://localhost/posts/its-a-chocolatey-time/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>2019 Podcast Shows I Enjoy Listening To
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I listen to podcasts because it is one of the ways I can learn something new. There was a quote from someone, from whom I can’t remember, “Podcast is like a moving university”. I will always have something to listen to when I am doing my chores, commute, having my walks or exercise, etc.
+Below is a list of the podcast shows I enjoy listening to currently and they are ordered in no particular order....</p>
+  </div>
+  <footer class="entry-footer"><span title='2019-12-15 12:38:09 +0000 +0000'>December 15, 2019</span>&nbsp;·&nbsp;5 min</footer>
+  <a class="entry-link" aria-label="post link to 2019 Podcast Shows I Enjoy Listening To" href="http://localhost/posts/2019-podcast-shows-i-enjoy-listening-to/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>A Better Web Experience with the Keyboard
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>When I use a computer, I like to have both hands on the keyboard, or specifically on the home row. I find that it is more productive than having to move them to grab the mouse every few seconds. This is one reason I am grateful for
+Software with great keyboard shortcuts and also that are easily customisable. Terminal (or terminal emulator) and command prompt which you do not really need to use the mouse....</p>
+  </div>
+  <footer class="entry-footer"><span title='2019-07-29 11:57:06 +0000 +0000'>July 29, 2019</span>&nbsp;·&nbsp;4 min</footer>
+  <a class="entry-link" aria-label="post link to A Better Web Experience with the Keyboard" href="http://localhost/posts/a-better-web-experience-with-the-keyboard/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>&#39;git status&#39; in Your Prompt
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Did you know: You can have a visual representation of the git status command output in your shell prompt? This is especially convenient for people who use the git command-line interface (CLI). Unfortunately, this doesn’t work with the Windows command prompt or cmd. But there are a few workarounds.
+git-prompt.sh Disclaimer: For this part of the article, I will show the how-tos by using Debian (on Windows Subsystem for Linux or WSL) and FreeBSD as examples....</p>
+  </div>
+  <footer class="entry-footer"><span title='2019-06-25 12:35:07 +0000 +0000'>June 25, 2019</span>&nbsp;·&nbsp;5 min</footer>
+  <a class="entry-link" aria-label="post link to &#39;git status&#39; in Your Prompt" href="http://localhost/posts/git-status-in-your-prompt/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Why Not DuckDuckGo?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>DuckDuckGo is a privacy-first search engine which doesn’t track you. I started using it as my primary search engine in 2011. Below is my first tweet about DuckDuckGo. In the tweet, I shared an article on an interview (2012) by TechSpot with DuckDuckGo’s founder, Gabriel Weinberg.
+I’ve used duckduckgo for more than a year &amp; it’s AWESOME. It is currently the default search engine in all my browsers http://t.co/Dngw2s9d...</p>
+  </div>
+  <footer class="entry-footer"><span title='2019-02-16 02:43:35 +0000 +0000'>February 16, 2019</span>&nbsp;·&nbsp;3 min</footer>
+  <a class="entry-link" aria-label="post link to Why Not DuckDuckGo?" href="http://localhost/posts/why-not-duckduckgo/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>My Experience with Windows Subsystem for Linux (WSL)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>One day on my way back home, I was listening to one of Hanselminutes’s podcast episodes titled “Inside Linux on Windows with WSL and Tara Raj”.
+This reminded me of the first time I tried it when Microsoft first announced it back in 2016. Then, it was called “Bash on Windows” and Microsoft collaborated with Canonical, the company behind Ubuntu.
+Personally, I didn’t use it much. It was just another shiny new toy and I didn’t have a use for it then....</p>
+  </div>
+  <footer class="entry-footer"><span title='2018-09-15 13:07:12 +0000 +0000'>September 15, 2018</span>&nbsp;·&nbsp;9 min</footer>
+  <a class="entry-link" aria-label="post link to My Experience with Windows Subsystem for Linux (WSL)" href="http://localhost/posts/my-experience-with-wsl/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="http://localhost/page/2/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="http://localhost">Alvin Sim</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

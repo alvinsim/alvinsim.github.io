@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Alvin Sim</title>
+    <link>http://localhost/tags/python/</link>
+    <description>Recent content in Python on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jul 2016 15:46:35 +0000</lastBuildDate><atom:link href="http://localhost/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeBSD - Install Python 3 and Pip</title>
+      <link>http://localhost/posts/freebsd-install-python-3-and-pip/</link>
+      <pubDate>Sat, 09 Jul 2016 15:46:35 +0000</pubDate>
+      
+      <guid>http://localhost/posts/freebsd-install-python-3-and-pip/</guid>
+      <description>I am starting a Python web project, and taking this oppotunity to learn django or flask. Development work will be done in my FreeBSD VirtualBox virtual machine.
+Before I started, I checked if Python was already installed. And yes, it was already loaded with version 2.7.12.
+[alvinsim@freebsd ~]$ which python /usr/local/bin/python [alvinsim@freebsd ~]$ python --version Python 2.7.12 [alvinsim@freebsd ~]$ But, I wanted to develop using Python 3. So, I searched if there was a port for it.</description>
+    </item>
+    
+  </channel>
+</rss>

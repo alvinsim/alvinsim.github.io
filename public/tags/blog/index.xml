@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on Alvin Sim</title>
+    <link>http://localhost/tags/blog/</link>
+    <description>Recent content in blog on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 12:58:20 +0000</lastBuildDate><atom:link href="http://localhost/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m Now Licensed Under Creative Commons</title>
+      <link>http://localhost/posts/creative-commons-licensed/</link>
+      <pubDate>Fri, 07 Oct 2016 12:58:20 +0000</pubDate>
+      
+      <guid>http://localhost/posts/creative-commons-licensed/</guid>
+      <description>Well, this website actually, including the blogs posts. Everything published here is now licensed under the Creative Commons Attribution 4.0 International License.
+In short, this means that you are allowed to (including for commercial works)
+share any of the blog posts published here with anyone. use any of the blog posts to produce any form of works. There is just one request: Please provide a link back to the content and reference me as the author.</description>
+    </item>
+    
+    <item>
+      <title>Automate It!</title>
+      <link>http://localhost/posts/automate-it/</link>
+      <pubDate>Fri, 25 Mar 2016 10:53:59 +0000</pubDate>
+      
+      <guid>http://localhost/posts/automate-it/</guid>
+      <description>Image Credit - Eugen Stoll (Creative Commons License - CC BY-NC 2.0)
+Machines are wonderful. They help us to be productive by doing the things we don&amp;rsquo;t want to do or can&amp;rsquo;t do, whilst we can focus on other important things.
+Yes, I am LAZY! I write scripts or let services, like IFTTT (If-This-Then-That), to do things for me.
+This is how I automate some of my daily routines.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost/posts/hello/</link>
+      <pubDate>Mon, 12 Oct 2015 15:55:42 +0000</pubDate>
+      
+      <guid>http://localhost/posts/hello/</guid>
+      <description>I used to blog at my wordpress site. But now I have decided to merge both my website and blog since I already have my domain name and hosting. Unfortunately, this was something I had put off for a very long time.
+What I will be blogging about? Hacks, things which inspires me and passionate about - coding/scripting, software development/engineering, tech, art, music, my kids. How-to articles especially for my own reference.</description>
+    </item>
+    
+  </channel>
+</rss>

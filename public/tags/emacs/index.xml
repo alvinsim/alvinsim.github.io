@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>emacs on Alvin Sim</title>
+    <link>http://localhost/tags/emacs/</link>
+    <description>Recent content in emacs on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 13:07:12 +0000</lastBuildDate><atom:link href="http://localhost/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Experience with Windows Subsystem for Linux (WSL)</title>
+      <link>http://localhost/posts/my-experience-with-wsl/</link>
+      <pubDate>Sat, 15 Sep 2018 13:07:12 +0000</pubDate>
+      
+      <guid>http://localhost/posts/my-experience-with-wsl/</guid>
+      <description>One day on my way back home, I was listening to one of Hanselminutes&amp;rsquo;s podcast episodes titled &amp;ldquo;Inside Linux on Windows with WSL and Tara Raj&amp;rdquo;.
+This reminded me of the first time I tried it when Microsoft first announced it back in 2016. Then, it was called &amp;ldquo;Bash on Windows&amp;rdquo; and Microsoft collaborated with Canonical, the company behind Ubuntu.
+Personally, I didn&amp;rsquo;t use it much. It was just another shiny new toy and I didn&amp;rsquo;t have a use for it then.</description>
+    </item>
+    
+    <item>
+      <title>Diagrams With PlantUML and Emacs</title>
+      <link>http://localhost/posts/diagrams-with-plantuml-and-emacs/</link>
+      <pubDate>Sat, 15 Apr 2017 15:13:21 +0000</pubDate>
+      
+      <guid>http://localhost/posts/diagrams-with-plantuml-and-emacs/</guid>
+      <description>Starting With Dia When I had to draw UML diagrams, the tool I first used was Dia - an open-sourced diagraming software. Dia is a great tool. I have not used Microsoft Visio before, so I cannot compare what short-comings it has compared to Visio.
+The other tool I tried was yEd. I did not feel comfortable using it, and always went back to using Dia.
+Couple of years ago, with a new job, I had to draw lots of sequence diagrams.</description>
+    </item>
+    
+    <item>
+      <title>From Vim To Emacs</title>
+      <link>http://localhost/posts/from-vim-to-emacs/</link>
+      <pubDate>Sun, 19 Jun 2016 16:03:08 +0000</pubDate>
+      
+      <guid>http://localhost/posts/from-vim-to-emacs/</guid>
+      <description>Disclaimer: This is not a &amp;ldquo;Vim vs Emacs&amp;rdquo; type of blog post. I wrote this to share my thoughts of using both of them.
+Vim Vi or vim (Vi IMproved) is a text editor. It is installed on almost all of the *nix systems. You can choose to use it with the GUI, or, use it in the terminal or command prompt.
+I started using vim at around 2006/07. This was at one of my previous jobs where the servers were mainly *nix based systems - IBM AIX (ver 5.</description>
+    </item>
+    
+  </channel>
+</rss>

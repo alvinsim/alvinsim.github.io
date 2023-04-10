@@ -1,0 +1,3 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = git@github.com:alvinsim/hugo-paper.git

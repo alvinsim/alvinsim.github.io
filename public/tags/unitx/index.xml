@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unitx on Alvin Sim</title>
+    <link>http://localhost/tags/unitx/</link>
+    <description>Recent content in unitx on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2019 12:35:07 +0000</lastBuildDate><atom:link href="http://localhost/tags/unitx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;git status&#39; in Your Prompt</title>
+      <link>http://localhost/posts/git-status-in-your-prompt/</link>
+      <pubDate>Tue, 25 Jun 2019 12:35:07 +0000</pubDate>
+      
+      <guid>http://localhost/posts/git-status-in-your-prompt/</guid>
+      <description>Did you know: You can have a visual representation of the git status command output in your shell prompt? This is especially convenient for people who use the git command-line interface (CLI). Unfortunately, this doesn&amp;rsquo;t work with the Windows command prompt or cmd. But there are a few workarounds.
+git-prompt.sh Disclaimer: For this part of the article, I will show the how-tos by using Debian (on Windows Subsystem for Linux or WSL) and FreeBSD as examples.</description>
+    </item>
+    
+  </channel>
+</rss>

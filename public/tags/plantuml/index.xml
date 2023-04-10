@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>plantuml on Alvin Sim</title>
+    <link>http://localhost/tags/plantuml/</link>
+    <description>Recent content in plantuml on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2017 15:13:21 +0000</lastBuildDate><atom:link href="http://localhost/tags/plantuml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagrams With PlantUML and Emacs</title>
+      <link>http://localhost/posts/diagrams-with-plantuml-and-emacs/</link>
+      <pubDate>Sat, 15 Apr 2017 15:13:21 +0000</pubDate>
+      
+      <guid>http://localhost/posts/diagrams-with-plantuml-and-emacs/</guid>
+      <description>Starting With Dia When I had to draw UML diagrams, the tool I first used was Dia - an open-sourced diagraming software. Dia is a great tool. I have not used Microsoft Visio before, so I cannot compare what short-comings it has compared to Visio.
+The other tool I tried was yEd. I did not feel comfortable using it, and always went back to using Dia.
+Couple of years ago, with a new job, I had to draw lots of sequence diagrams.</description>
+    </item>
+    
+  </channel>
+</rss>

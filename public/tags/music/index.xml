@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>music on Alvin Sim</title>
+    <link>http://localhost/tags/music/</link>
+    <description>Recent content in music on Alvin Sim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 13:19:14 +0000</lastBuildDate><atom:link href="http://localhost/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Music With Sonic Pi</title>
+      <link>http://localhost/posts/coding-music-with-sonic-pi/</link>
+      <pubDate>Sun, 11 Feb 2018 13:19:14 +0000</pubDate>
+      
+      <guid>http://localhost/posts/coding-music-with-sonic-pi/</guid>
+      <description>Sonic Pi Lately, I have been playing with Sonic Pi. In a nutshell, it is a music synthesizer. But instead of toggling knobs, switches, keys and what not, we write code. Ruby code to be exact.
+Sonic Pi was created by Sam Aaron. A bit of history now, if you have not heard of him, he, together with Johnathan Graham, was Meta-eX. They performed live coding music. Besides that, they also did tech talks to promote coding and music to different groups of people.</description>
+    </item>
+    
+  </channel>
+</rss>
